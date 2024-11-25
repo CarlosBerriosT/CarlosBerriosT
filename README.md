@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Carlos Berríos 👋</h1>
 </div>
-<img src="https://imgur.com/a/Cwe2fWR">
+<img src="https://ibb.co/JpZLMQG">
 
 
 ## Sobre mi
